@@ -1,6 +1,6 @@
-Simple form storage (SFS), is pure javascript library use for storage data cross all domain in cookies. 
+Simple form storage (SFS), is pure javascript library for storage data cross entire domain in cookies. 
 
-Using SFS is simple, you need only call initSFS(expiration) with param expiration witch determines cookie expiration.
+Using SFS is simple, you need only call initSFS(expiration time) with param expiration witch determines cookie expiration.
 Next step is adding attributes savedata with value 'true' and savedataid with 'id' to html element in your page. Savedataid is use accross
 hole domain.
 
